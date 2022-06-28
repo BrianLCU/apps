@@ -1,3 +1,3 @@
 <?php
-  echo "LCU Apps!!! TEST";
+  echo "LCU Apps!!!";
 ?>
